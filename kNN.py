@@ -27,5 +27,5 @@ def probar_algoritmo(training_dataset_path, test_dataset_path, k):
     print 'Total de errores: %s - Procentaje de error: %s' % (errores, float(errores) / len(archivos))
 
 if __name__ == '__main__':
-    probar_algoritmo('data/trainingDigits', 'data/testDigits', 5)
+    probar_algoritmo('data/trainingDigits', 'data/testDigits', 3)
 

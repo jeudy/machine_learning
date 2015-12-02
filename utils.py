@@ -1,5 +1,3 @@
-__author__ = 'jeudy-work'
-
 import numpy as np
 from scipy.stats import itemfreq
 import os
